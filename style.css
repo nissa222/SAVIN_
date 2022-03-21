@@ -1,0 +1,18 @@
+h1
+{
+  text-align: center;
+  background-color: red;
+}
+h2
+{
+  font-style: italic;
+  color: blue;
+}
+p 
+{
+  color: white;
+}
+body
+{
+  margin:0px; padding:0px; font size:13px; font-family:Arial; color:#333; line-height:1.5; background-image:url("https://i.pinimg.com/originals/64/89/e7/6489e723da66101b32bc571a84915610.jpg");
+}
